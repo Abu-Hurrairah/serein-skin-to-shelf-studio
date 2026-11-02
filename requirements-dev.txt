@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest>=8,<10
+pytest-asyncio>=0.24,<2
+# Optional for screenshot capture: pip install playwright && python -m playwright install chromium

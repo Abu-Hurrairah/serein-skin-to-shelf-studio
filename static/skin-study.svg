@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 510" fill="none" role="img" aria-label="Minimal editorial portrait with skin mapping details">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e8dacc"/><stop offset="1" stop-color="#c4aa95"/></linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8dfc9"/><stop offset=".58" stop-color="#dcad8f"/><stop offset="1" stop-color="#b97c62"/></linearGradient>
+    <linearGradient id="shadow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#45433d"/><stop offset="1" stop-color="#272e2a"/></linearGradient>
+  </defs>
+  <rect width="420" height="510" fill="url(#paper)"/>
+  <circle cx="210" cy="242" r="187" stroke="#fff9ee" stroke-opacity=".32"/>
+  <circle cx="210" cy="242" r="156" stroke="#fff9ee" stroke-opacity=".23"/>
+  <g stroke="#ede4db" stroke-width="1" opacity=".28"><path d="M0 120H420M0 245H420M0 370H420M93 0V510M210 0V510M327 0V510"/></g>
+  <!-- structured silhouette: a painted study, not a real person's photo -->
+  <path d="M71 510c2-59 18-99 54-122 16-10 39-22 45-43l2-43h91l4 49c5 15 39 24 59 42 29 25 41 60 44 117H71Z" fill="#8f7669"/>
+  <path d="M103 510c10-45 32-88 58-109 30 22 64 27 101 0 33 27 55 65 60 109H103Z" fill="#faf0e2"/>
+  <path d="M181 311l-2 48c8 17 21 32 39 39 19-5 34-20 39-39l-5-51-71 3Z" fill="#c18a70"/>
+  <path d="M94 198c0-109 36-155 112-163 77-7 128 36 128 138l-9 114-49 79-52 40-59-44-50-75-21-89Z" fill="url(#shadow)"/>
+  <path d="M127 183c0-71 26-113 85-113 60 0 88 43 88 106l-4 83c-3 44-27 89-82 111-51-20-80-62-83-115l-4-72Z" fill="url(#skin)"/>
+  <path d="M127 195c-9-12-22-7-22 10 0 21 11 41 28 42M299 195c10-12 23-8 23 9 1 21-12 40-26 43" fill="#d29b81"/>
+  <path d="M124 180c-3-78 32-128 100-130 60-2 91 45 89 114-23-16-43-27-62-65-19 23-54 38-116 38l-11 43Z" fill="#33352f"/>
+  <path d="M129 149c25-41 76-39 111-67 20 42 39 47 68 59" stroke="#45423b" stroke-width="12" stroke-linecap="round"/>
+  <path d="M157 207c15-11 31-11 46-2M236 205c14-10 28-10 43 0" stroke="#644e44" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M163 221c12 8 27 8 37-1M238 221c11 8 25 7 37-1" stroke="#543e39" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="181" cy="222" r="3.5" fill="#352d2a"/><circle cx="255" cy="222" r="3.5" fill="#352d2a"/>
+  <path d="M216 222c-3 19-11 39-8 47 8 6 17 5 23 1" stroke="#9c6655" stroke-width="3.8" stroke-linecap="round"/>
+  <path d="M187 303c17 10 43 9 60 0-16 20-42 22-60 0Z" fill="#a95f59"/>
+  <path d="M194 302c16 5 31 4 46 0" stroke="#e5a69a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M127 206c-12-8-20-17-21-32M295 196c9-16 14-31 15-48" stroke="#413c35" stroke-width="6" stroke-linecap="round"/>
+  <path d="M133 231c9 64 27 103 74 131M297 230c-9 64-33 107-77 131" stroke="#fff2df" stroke-opacity=".26" stroke-width="2"/>
+  <!-- cosmetic mapping overlays -->
+  <g stroke="#fff8e7" stroke-opacity=".9" stroke-width="1.4"><circle cx="169" cy="256" r="19"/><circle cx="271" cy="249" r="16"/><circle cx="218" cy="170" r="29"/></g>
+  <g fill="#fff5e8"><circle cx="169" cy="256" r="2.8"/><circle cx="271" cy="249" r="2.8"/><circle cx="218" cy="170" r="2.8"/></g>
+  <g stroke="#fff8e7" stroke-opacity=".85"><path d="M169 256H95v-20H64"/><path d="M271 249h78v20h30"/><path d="M218 170v-56h57"/></g>
+  <g fill="#fff9ee" font-size="10" font-family="Arial, sans-serif" letter-spacing="2"><text x="23" y="232">A / 01</text><text x="344" y="283">B / 02</text><text x="279" y="111">C / 03</text></g>
+  <path d="M20 20h22M20 20v22M400 20h-22M400 20v22M20 490h22M20 490v-22M400 490h-22M400 490v-22" stroke="#fff8ec" stroke-width="2" opacity=".7"/>
+  <text x="26" y="477" fill="#fff8ed" font-size="10" letter-spacing="3" font-family="Arial, sans-serif">SEREIN / SKIN STUDY</text>
+</svg>
